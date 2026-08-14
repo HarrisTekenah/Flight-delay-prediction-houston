@@ -1,4 +1,4 @@
-# Flight Delay Prediction — Houston Airports (2011)
+# Flight Delay Prediction on Houston Airports (2011)
 
 ## Overview
 This project develops and evaluates two machine learning classification models which are
