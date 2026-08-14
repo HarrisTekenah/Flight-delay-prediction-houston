@@ -38,7 +38,7 @@ more than 3%.
 
 ## Research Paper
 The full journal paper is published on Zenodo.
-DOI: *[]*
+DOI: *[https://doi.org/10.5281/zenodo.21931093]*
 
 ## How to Run
 1. Clone the repository
